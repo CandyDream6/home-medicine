@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
 </head>
 <body>
     <table style="width:1648.53pt"> 
@@ -13,9 +12,8 @@
   <col width="885" style="width:663.75pt;"> 
   <col width="532" style="width:399.40pt;"> 
  </colgroup>
- <tbody>
   <tr height="97" bgcolor="red"> 
-   <td colspan="5" class="et48"><font color="red">💊家中常备药品清单🩹</td> 
+   <td colspan="5" class="et48">💊家中常备药品清单🩹</td> 
   </tr> 
   <tr height="86"> 
    <td bgcolor="red">🧙‍♀️病种</td> 
@@ -147,8 +145,7 @@
    <td class="et40">外用工具</td> 
    <td class="et40">各种外用辅助</td> 
    <td class="et40"></td> 
-  </tr> 
- </tbody>
+  </tr>
 </table>
 </body>
 </html>
