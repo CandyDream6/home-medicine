@@ -15,7 +15,7 @@
  </colgroup>
  <tbody>
   <tr height="97"> 
-   <td colspan="5" class="et48">💊家中常备药品清单🩹</td> 
+   <td colspan="5" class="et48"><font color="red">💊家中常备药品清单🩹</td> 
   </tr> 
   <tr height="86"> 
    <td bgcolor="red">🧙‍♀️病种</td> 
