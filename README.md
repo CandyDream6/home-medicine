@@ -1,3 +1,6 @@
+# <a href="https://kdocs.cn/l/cmnOQe3Q88S8" target="blank">👀由于markdown限制，所以具体详情点击查看</a>
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/medicine/medicine.png">
+
 ## Star History
 <a href="https://star-history.com/#CandyDream6/home-medicine&Date">
  <picture>
