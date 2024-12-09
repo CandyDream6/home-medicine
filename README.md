@@ -14,7 +14,7 @@
   <col width="532" style="width:399.40pt;"> 
  </colgroup>
  <tbody>
-  <tr height="97"> 
+  <tr height="97" bgcolor="red"> 
    <td colspan="5" class="et48"><font color="red">💊家中常备药品清单🩹</td> 
   </tr> 
   <tr height="86"> 
