@@ -18,7 +18,7 @@
    <td colspan="5" class="et48">💊家中常备药品清单🩹</td> 
   </tr> 
   <tr height="86"> 
-   <td style="color: red;background-color: black">🧙‍♀️病种</td> 
+   <td bgcolor="red">🧙‍♀️病种</td> 
    <td class="et6">🕵️‍♀️药品</td> 
    <td class="et6">💂‍♀️分类</td> 
    <td class="et6">👩‍🎨症状/药效/用法</td> 
