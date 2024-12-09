@@ -1,17 +1,10 @@
 
-<table style="width:1648.53pt"> 
- <colgroup>
-  <col width="197" style="width:148.15pt; background-color: red"> 
-  <col width="438" style="width:329.15pt;"> 
-  <col width="145" style="width:108.75pt;"> 
-  <col width="885" style="width:663.75pt;"> 
-  <col width="532" style="width:399.40pt;"> 
- </colgroup>
-  <tr height="97" bgcolor="red"> 
+<table style="width:1648.53pt">
+  <tr height="97" > 
    <td colspan="5" class="et48">💊家中常备药品清单🩹</td> 
   </tr> 
-  <tr height="86"> 
-   <td bgcolor="red">🧙‍♀️病种</td> 
+  <tr height="86" style="background-color: red"> 
+   <td >🧙‍♀️病种</td> 
    <td class="et6">🕵️‍♀️药品</td> 
    <td class="et6">💂‍♀️分类</td> 
    <td class="et6">👩‍🎨症状/药效/用法</td> 
