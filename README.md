@@ -2,6 +2,51 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <style>
+        table{border-top:1px solid #333;border-left:1px solid #333;border-spacing:0;background-color:#fff;width:100%}
+        table td{border-bottom:1px solid #333;border-right:1px solid #333;font-size:13px;padding:5px}
+        .et20{color:rgb(26, 36, 25);background:rgb(237, 237, 237);}
+        .et39{color:rgb(242, 53, 56);background:rgb(214, 220, 229);}
+        .et31{color:rgb(38, 38, 38);text-align:center ;background:rgb(191, 191, 191);}
+        .font4{color:rgb(255, 255, 0);}
+        .et18{color:rgb(242, 53, 56);background:rgb(237, 237, 237);}
+        .et47{color:rgb(26, 36, 25);text-align:left ;background:rgb(222, 235, 247);}
+        .font8{color:rgb(26, 36, 25);}
+        .et17{color:rgb(38, 38, 38);text-align:center ;background:rgb(201, 201, 201);}
+        .et2{color:rgb(26, 36, 25);text-align:center ;background:rgb(222, 235, 247);}
+        .et48{color:rgb(26, 36, 25);text-align:left ;background:rgb(242, 242, 242);}
+        .et14{color:rgb(38, 38, 38);text-align:center ;background:rgb(255, 217, 102);}
+        .et42{color:rgb(26, 36, 25);text-align:left ;background:rgb(226, 240, 217);}
+        .et27{color:rgb(38, 38, 38);text-align:center ;background:rgb(157, 195, 230);}
+        .et11{color:rgb(242, 53, 56);background:rgb(218, 227, 243);}
+        .et45{color:rgb(26, 36, 25);text-align:left ;background:rgb(237, 237, 237);}
+        .et10{color:rgb(38, 38, 38);text-align:center ;background:rgb(143, 170, 220);}
+        .et3{color:rgb(242, 53, 56);text-align:center ;background:rgb(214, 220, 229);}
+        .et6{color:rgb(255, 255, 0);text-align:center ;background:rgb(46, 117, 182);}
+        .et43{color:rgb(26, 36, 25);text-align:left;background:rgb(218, 227, 243);}
+        .et8{color:rgb(242, 53, 56);background:rgb(226, 240, 217);}
+        .et21{color:rgb(38, 38, 38);text-align:center ;background:rgb(244, 177, 131);}
+        .et13{color:rgb(26, 36, 25);background:rgb(218, 227, 243);}
+        .font6{color:rgb(242, 53, 56);}
+        .et28{color:rgb(242, 53, 56);background:rgb(222, 235, 247);}
+        .et16{color:rgb(26, 36, 25);background:rgb(255, 242, 204);}
+        .et9{color:rgb(26, 36, 25);background:rgb(226, 240, 217);}
+        .et41{color:rgb(38, 38, 38);text-align:center ;background:rgb(132, 151, 176);}
+        .et29{color:rgb(26, 36, 25);background:rgb(222, 235, 247);}
+        .et32{color:rgb(242, 53, 56);background:rgb(242, 242, 242);}
+        .et33{color:rgb(26, 36, 25);background:rgb(242, 242, 242);}
+        .et22{color:rgb(242, 53, 56);background:rgb(251, 229, 214);}
+        .et24{color:rgb(26, 36, 25);background:rgb(251, 229, 214);}
+        .et44{color:rgb(26, 36, 25);text-align:left ;background:rgb(255, 242, 204);}
+        .et46{color:rgb(26, 36, 25);text-align:left;background:rgb(251, 229, 214);}
+        .et5{color:rgb(242, 242, 242);text-align:center ;background:rgb(33, 74, 29);}
+        .et7{color:rgb(38, 38, 38);text-align:center ;background:rgb(169, 209, 142);}
+        .font1{color:rgb(38, 38, 38);}
+        .font2{color:rgb(242, 242, 242);}
+        .et40{color:rgb(26, 36, 25);background:rgb(214, 220, 229);}
+        .et15{color:rgb(242, 53, 56);background:rgb(255, 242, 204);}
+        .font0{color:rgb(0, 0, 0);}
+    </style>
 </head>
 <body>
     <table style="width:1648.53pt"> 
@@ -151,50 +196,5 @@
   </tr> 
  </tbody>
 </table>
-    <style>
-table{border-top:1px solid #333;border-left:1px solid #333;border-spacing:0;background-color:#fff;width:100%}
-table td{border-bottom:1px solid #333;border-right:1px solid #333;font-size:13px;padding:5px}
-.et20{color:rgb(26, 36, 25);background:rgb(237, 237, 237);}
-.et39{color:rgb(242, 53, 56);background:rgb(214, 220, 229);}
-.et31{color:rgb(38, 38, 38);text-align:center ;background:rgb(191, 191, 191);}
-.font4{color:rgb(255, 255, 0);}
-.et18{color:rgb(242, 53, 56);background:rgb(237, 237, 237);}
-.et47{color:rgb(26, 36, 25);text-align:left ;background:rgb(222, 235, 247);}
-.font8{color:rgb(26, 36, 25);}
-.et17{color:rgb(38, 38, 38);text-align:center ;background:rgb(201, 201, 201);}
-.et2{color:rgb(26, 36, 25);text-align:center ;background:rgb(222, 235, 247);}
-.et48{color:rgb(26, 36, 25);text-align:left ;background:rgb(242, 242, 242);}
-.et14{color:rgb(38, 38, 38);text-align:center ;background:rgb(255, 217, 102);}
-.et42{color:rgb(26, 36, 25);text-align:left ;background:rgb(226, 240, 217);}
-.et27{color:rgb(38, 38, 38);text-align:center ;background:rgb(157, 195, 230);}
-.et11{color:rgb(242, 53, 56);background:rgb(218, 227, 243);}
-.et45{color:rgb(26, 36, 25);text-align:left ;background:rgb(237, 237, 237);}
-.et10{color:rgb(38, 38, 38);text-align:center ;background:rgb(143, 170, 220);}
-.et3{color:rgb(242, 53, 56);text-align:center ;background:rgb(214, 220, 229);}
-.et6{color:rgb(255, 255, 0);text-align:center ;background:rgb(46, 117, 182);}
-.et43{color:rgb(26, 36, 25);text-align:left;background:rgb(218, 227, 243);}
-.et8{color:rgb(242, 53, 56);background:rgb(226, 240, 217);}
-.et21{color:rgb(38, 38, 38);text-align:center ;background:rgb(244, 177, 131);}
-.et13{color:rgb(26, 36, 25);background:rgb(218, 227, 243);}
-.font6{color:rgb(242, 53, 56);}
-.et28{color:rgb(242, 53, 56);background:rgb(222, 235, 247);}
-.et16{color:rgb(26, 36, 25);background:rgb(255, 242, 204);}
-.et9{color:rgb(26, 36, 25);background:rgb(226, 240, 217);}
-.et41{color:rgb(38, 38, 38);text-align:center ;background:rgb(132, 151, 176);}
-.et29{color:rgb(26, 36, 25);background:rgb(222, 235, 247);}
-.et32{color:rgb(242, 53, 56);background:rgb(242, 242, 242);}
-.et33{color:rgb(26, 36, 25);background:rgb(242, 242, 242);}
-.et22{color:rgb(242, 53, 56);background:rgb(251, 229, 214);}
-.et24{color:rgb(26, 36, 25);background:rgb(251, 229, 214);}
-.et44{color:rgb(26, 36, 25);text-align:left ;background:rgb(255, 242, 204);}
-.et46{color:rgb(26, 36, 25);text-align:left;background:rgb(251, 229, 214);}
-.et5{color:rgb(242, 242, 242);text-align:center ;background:rgb(33, 74, 29);}
-.et7{color:rgb(38, 38, 38);text-align:center ;background:rgb(169, 209, 142);}
-.font1{color:rgb(38, 38, 38);}
-.font2{color:rgb(242, 242, 242);}
-.et40{color:rgb(26, 36, 25);background:rgb(214, 220, 229);}
-.et15{color:rgb(242, 53, 56);background:rgb(255, 242, 204);}
-.font0{color:rgb(0, 0, 0);}
-</style>
 </body>
 </html>
