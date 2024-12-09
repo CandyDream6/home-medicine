@@ -151,7 +151,6 @@
   </tr> 
  </tbody>
 </table>
-</body>
     <style>
 table{border-top:1px solid #333;border-left:1px solid #333;border-spacing:0;background-color:#fff;width:100%}
 table td{border-bottom:1px solid #333;border-right:1px solid #333;font-size:13px;padding:5px}
@@ -197,4 +196,5 @@ table td{border-bottom:1px solid #333;border-right:1px solid #333;font-size:13px
 .et15{color:rgb(242, 53, 56);background:rgb(255, 242, 204);}
 .font0{color:rgb(0, 0, 0);}
 </style>
+</body>
 </html>
