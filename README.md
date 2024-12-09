@@ -59,10 +59,10 @@ table td{border-bottom:1px solid #333;border-right:1px solid #333;font-size:13px
  </colgroup>
  <tbody>
   <tr height="97"> 
-   <td colspan="5" class="et48">💊家中常备药品清单🩹</td> 
+   <tzzzzzzzzd colspan="5" class="et48">💊家中常备药品清单🩹</tzzzzzzzzd> 
   </tr> 
   <tr height="86"> 
-   <td class="et6">🧙‍♀️病种</td> 
+   <td class="et6" style="color: red;background-color: black">🧙‍♀️病种</td> 
    <td class="et6">🕵️‍♀️药品</td> 
    <td class="et6">💂‍♀️分类</td> 
    <td class="et6">👩‍🎨症状/药效/用法</td> 
