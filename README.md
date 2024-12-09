@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-</head>
-<body>
-    <table style="width:1648.53pt"> 
+
+<table style="width:1648.53pt"> 
  <colgroup>
-  <col width="197" style="width:148.15pt;"> 
+  <col width="197" style="width:148.15pt; background-color: red"> 
   <col width="438" style="width:329.15pt;"> 
   <col width="145" style="width:108.75pt;"> 
   <col width="885" style="width:663.75pt;"> 
@@ -147,5 +142,4 @@
    <td class="et40"></td> 
   </tr>
 </table>
-</body>
-</html>
+
